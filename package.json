@@ -10,6 +10,7 @@
   "dependencies": {
     "@mozaic-ds/vue": "^0.2.1",
     "core-js": "^3.6.5",
+    "postcss-scss": "^4.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {

@@ -1,0 +1,11 @@
+$local-config: (
+  font-path: "~@mozaic-ds/web-fonts",
+);
+
+@import "settings-tools/_all-settings";
+
+@include import-font-families();
+
+html {
+  @include set-font-face();
+}
