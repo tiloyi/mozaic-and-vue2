@@ -8,6 +8,7 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
+// import { MButton } from "@mozaic-ds/vue/src";
 import MButton from "@mozaic-ds/vue/src/components/button/MButton.vue";
 
 export default {
