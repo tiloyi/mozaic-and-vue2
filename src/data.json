@@ -1,0 +1,1293 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "deal": {
+        "id": 1,
+        "name": "Deal de test 1",
+        "circuit": "Stock",
+        "incotermPlace": "entrepôt Breuil-le-sec",
+        "incoterm": "Prix rendu entrepôt acheteur",
+        "shippingPlace": "entrepôt de Dourges",
+        "deliveryPlace": "entrepôt Breuil-le-sec",
+        "validationDate": null,
+        "applicationDate": "2021-03-08T08:26:07.463283",
+        "endDate": "2099-12-31T00:00:00",
+        "currency": "EUR",
+        "agreementId": 1,
+        "dealStatus": {
+          "code": "CALCULATED",
+          "label": "calculated"
+        },
+        "identifier": "20210308001001017001000001"
+      },
+      "versionNumber": 1,
+      "calculationDate": "2021-03-08T11:01:54.779596",
+      "validationDate": null
+    },
+    {
+      "id": 2,
+      "deal": {
+        "id": 1,
+        "name": "Deal de test 3",
+        "circuit": "Stock",
+        "incotermPlace": "entrepôt Breuil-le-sec",
+        "incoterm": "Prix rendu entrepôt acheteur",
+        "shippingPlace": "entrepôt de Dourges",
+        "deliveryPlace": "entrepôt Breuil-le-sec",
+        "validationDate": null,
+        "applicationDate": "2020-03-17T08:55:31.020276",
+        "endDate": "2099-12-30T08:55:31",
+        "currency": "EUR",
+        "agreementId": 1,
+        "dealStatus": {
+          "code": "ACTIVE",
+          "label": "active"
+        },
+        "identifier": "49a02ba1-1ec0-47c6-8922-e961cd2ec6db"
+      },
+      "versionNumber": 2,
+      "calculationDate": null,
+      "validationDate": null
+    },
+    {
+      "id": 3,
+      "deal": {
+        "id": 1,
+        "name": "Deal de test 2",
+        "circuit": "Stock",
+        "incotermPlace": "entrepôt Breuil-le-sec",
+        "incoterm": "Prix rendu entrepôt acheteur",
+        "shippingPlace": "entrepôt de Dourges",
+        "deliveryPlace": "entrepôt Breuil-le-sec",
+        "validationDate": null,
+        "applicationDate": "2020-04-20T08:55:31.020276",
+        "endDate": null,
+        "currency": "EUR",
+        "agreementId": 1,
+        "dealStatus": {
+          "code": "MODIFIED",
+          "label": "modified"
+        },
+        "identifier": "49a02ba1-1ec0-47c6-8922-e961cd2ec6db"
+      },
+      "versionNumber": 2,
+      "calculationDate": null,
+      "validationDate": null
+    }
+  ],
+  "samples": [
+    {
+      "refLm": 79924915,
+      "supplierId": 208929,
+      "buId": 1,
+      "label": "2 PLINTHES 7.5X90 SPANIA BLANC",
+      "department": "6",
+      "ean": 8434459062845,
+      "spp": 4.95,
+      "scp": 5.882234,
+      "intercompanyPrice": 7.714462,
+      "delta": 1.832228,
+      "deltaPercentage": 31.148506,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût de stockage",
+          "value": 0.018824,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 0.156,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.07227,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prestation surcoût palette",
+          "value": 0.006298,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.186061,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.015333,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.043779,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 4.95,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.235897,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.03,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 79205336,
+      "supplierId": 204108,
+      "buId": 1,
+      "label": "P.VIN/INT UNI PLUME GRISE PAILLETTE",
+      "department": "12",
+      "ean": 5411012401177,
+      "spp": 7.78,
+      "scp": 10.718539,
+      "intercompanyPrice": 12.360739,
+      "delta": 1.6422,
+      "deltaPercentage": 15.321118,
+      "productCostBreakdowns": [
+        {
+          "label": "Prix fournisseur",
+          "value": 7.78,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.118235,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.730769,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.090784,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 1.266667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.080696,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.113588,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.18,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 69675592,
+      "supplierId": 203712,
+      "buId": 1,
+      "label": "ADAPTATEUR VIDE 12X20 BLANC",
+      "department": "3",
+      "ean": 4012740872119,
+      "spp": 1.76,
+      "scp": 2.016461,
+      "intercompanyPrice": 3.964533,
+      "delta": 1.948072,
+      "deltaPercentage": 96.608465,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût de stockage",
+          "value": 0.012868,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.010799,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.019167,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.015426,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.110577,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.01,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.025696,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 1.76,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 79924943,
+      "supplierId": 208929,
+      "buId": 1,
+      "label": "2 PLINTHES 7.5X90 SPANIA BRUN FONCE",
+      "department": "6",
+      "ean": 8434459062821,
+      "spp": 4.95,
+      "scp": 7.227734,
+      "intercompanyPrice": 9.019703,
+      "delta": 1.791969,
+      "deltaPercentage": 24.792958,
+      "productCostBreakdowns": [
+        {
+          "label": "Prix fournisseur",
+          "value": 4.95,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Prestation surcoût palette",
+          "value": 0.020756,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.766667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 0.156,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.07227,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.657143,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.09,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.053342,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.026824,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.226701,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 69676040,
+      "supplierId": 203712,
+      "buId": 1,
+      "label": "2 ANGLES PLAT 12X20 BLANC",
+      "department": "3",
+      "ean": 4012740872065,
+      "spp": 1.03,
+      "scp": 1.154517,
+      "intercompanyPrice": 3.123409,
+      "delta": 1.968892,
+      "deltaPercentage": 170.538156,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût de stockage",
+          "value": 0.003217,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 1.03,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.015038,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.055288,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.006207,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.004792,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.008867,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 72357166,
+      "supplierId": 207130,
+      "buId": 1,
+      "label": "CADRE LILA INSP BLANC 13X18CM",
+      "department": "12",
+      "ean": 3276000208174,
+      "spp": 0.49,
+      "scp": 0.637494,
+      "intercompanyPrice": 2.617478,
+      "delta": 1.979984,
+      "deltaPercentage": 310.588649,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût d'entrée",
+          "value": 0.009583,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.070769,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.004761,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.005654,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.01,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 0.49,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Prestation surcoût palette",
+          "value": 0.002858,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.007154,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.016699,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 81970140,
+      "supplierId": 209954,
+      "buId": 1,
+      "label": "SLIMLINE LED 26.5W 4000K 100CM",
+      "department": "13",
+      "ean": 3276000439943,
+      "spp": 18.72,
+      "scp": 20.755684,
+      "intercompanyPrice": 22.255017,
+      "delta": 1.499333,
+      "deltaPercentage": 7.223723,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût transport aval",
+          "value": 0.09,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.273312,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.15639,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.123167,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 18.72,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.127778,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.410524,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.353846,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 80137789,
+      "supplierId": 208171,
+      "buId": 1,
+      "label": "TONDEUSE STERWINS 320EP4 1200W 32CM",
+      "department": "9",
+      "ean": 3276000362692,
+      "spp": 30.46,
+      "scp": 38.341076,
+      "intercompanyPrice": 39.239935,
+      "delta": 0.898859,
+      "deltaPercentage": 2.344377,
+      "productCostBreakdowns": [
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 30.46,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 1.898706,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.27862,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 1.8,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.766667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.313448,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.444716,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 1.277778,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 82088775,
+      "supplierId": 206408,
+      "buId": 1,
+      "label": "REMIX2 PTE PIVOT VF/BR77.5/80.5CM",
+      "department": "7",
+      "ean": 3276000636892,
+      "spp": 87.11,
+      "scp": 104.500963,
+      "intercompanyPrice": 102.676321,
+      "delta": -1.824642,
+      "deltaPercentage": -1.746052,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût transport aval",
+          "value": 2.58,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 1.06991,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 2.705882,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 87.11,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 1.271806,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.302632,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 4.857974,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.778117,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 81989526,
+      "supplierId": 203490,
+      "buId": 1,
+      "label": "SERVITEUR ANEKO BAMBOU",
+      "department": "7",
+      "ean": 3276000482994,
+      "spp": 14.17,
+      "scp": 18.238559,
+      "intercompanyPrice": 19.597965,
+      "delta": 1.359406,
+      "deltaPercentage": 7.453473,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût transport aval",
+          "value": 0.58,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.638889,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.383333,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 14.17,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.132525,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.206882,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.480403,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 1.005933,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 72532320,
+      "supplierId": 209233,
+      "buId": 1,
+      "label": "CX 20X40 BEAUTY BLANC 1.6M2",
+      "department": "6",
+      "ean": 8021224533398,
+      "spp": 8.16,
+      "scp": 13.191363,
+      "intercompanyPrice": 14.784576,
+      "delta": 1.593213,
+      "deltaPercentage": 12.077699,
+      "productCostBreakdowns": [
+        {
+          "label": "Frais Gestion",
+          "value": 0.119136,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.09707,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 8.16,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.198144,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.38,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.230541,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 0.9512,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 1.381818,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 1.266667,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 82003904,
+      "supplierId": 200208,
+      "buId": 1,
+      "label": "CX QUARTZITE 45X45 GRIS MOYEN 1.72M2",
+      "department": "6",
+      "ean": 8011634574838,
+      "spp": 8.4,
+      "scp": 12.429589,
+      "intercompanyPrice": 14.010564,
+      "delta": 1.580975,
+      "deltaPercentage": 12.719448,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût d'entrée",
+          "value": 0.095833,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.12264,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.836364,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.377454,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 8.4,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.090362,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.384036,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.33,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût transport amont",
+          "value": 1.373875,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        }
+      ]
+    },
+    {
+      "refLm": 82010985,
+      "supplierId": 207768,
+      "buId": 1,
+      "label": "*REGLETTE ETANCHE T8 1X36W IP65",
+      "department": "13",
+      "ean": 3276000600954,
+      "spp": 6.78,
+      "scp": 8.25831,
+      "intercompanyPrice": 9.817773,
+      "delta": 1.559463,
+      "deltaPercentage": 18.883561,
+      "productCostBreakdowns": [
+        {
+          "label": "Coût d'entrée",
+          "value": 0.063889,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.136905,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.098988,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.060171,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.157948,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 6.78,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.339872,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.18,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        }
+      ]
+    },
+    {
+      "refLm": 70595756,
+      "supplierId": 203757,
+      "buId": 1,
+      "label": "ENROULEUR CHAN 30M HO7RNF 3G1.5MM² LEXMA",
+      "department": "3",
+      "ean": 3276005595927,
+      "spp": 22.06,
+      "scp": 25.957872,
+      "intercompanyPrice": 27.085156,
+      "delta": 1.127284,
+      "deltaPercentage": 4.342745,
+      "productCostBreakdowns": [
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.638889,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.135971,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Prix fournisseur",
+          "value": 22.06,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.194244,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.780643,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.322076,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.57,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.383333,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    },
+    {
+      "refLm": 70524440,
+      "supplierId": 203490,
+      "buId": 1,
+      "label": "POUBELLE 5L STEPPY GRIS ZINGUE 1",
+      "department": "7",
+      "ean": 3276005475472,
+      "spp": 2.84,
+      "scp": 3.719977,
+      "intercompanyPrice": 5.587791,
+      "delta": 1.867814,
+      "deltaPercentage": 50.210365,
+      "productCostBreakdowns": [
+        {
+          "label": "Prix fournisseur",
+          "value": 2.84,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix rendu entrepôt"
+        },
+        {
+          "label": "Coût de sortie",
+          "value": 0.176923,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Coût d'entrée",
+          "value": 0.095833,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Margin",
+          "value": 2.0,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Coûts additionnels"
+        },
+        {
+          "label": "Coût de stockage",
+          "value": 0.198335,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        },
+        {
+          "label": "Provisions pour risques",
+          "value": 0.027078,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Coût transport aval",
+          "value": 0.11,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant coûts additionnels"
+        },
+        {
+          "label": "Provisions pour soldes",
+          "value": 0.098158,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix revient entrepôt"
+        },
+        {
+          "label": "Frais Gestion",
+          "value": 0.041464,
+          "purchasePricePercentage": null,
+          "priceBeforeAdditionalCostPercentage": null,
+          "type": "Prix avant provision"
+        }
+      ]
+    }
+  ]
+}
